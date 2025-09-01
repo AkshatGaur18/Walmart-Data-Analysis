@@ -1,0 +1,1001 @@
+product_category,customer_state,total_sales_revenue,quantity_sold
+"bed table bath",SP,478284.52,5235
+"HEALTH BEAUTY",SP,462305.22,4204
+"Watches present",SP,435009.92,2281
+"sport leisure",SP,386357.01,3667
+"computer accessories",SP,350747.88,3170
+"Furniture Decoration",SP,286708.02,3531
+housewares,SP,275378.63,3265
+automotive,SP,214277.27,1747
+"Cool Stuff",SP,213186.89,1364
+toys,SP,185561.83,1712
+"Watches present",RJ,185379.65,874
+perfumery,SP,166630.55,1477
+"HEALTH BEAUTY",MG,157558.3,1086
+babies,SP,156716.76,1276
+"Garden tools",SP,153180.74,1559
+"bed table bath",RJ,148035.23,1644
+"HEALTH BEAUTY",RJ,145298.62,1064
+"bed table bath",MG,129643.98,1331
+"sport leisure",RJ,125148.04,1041
+"Watches present",MG,123759.23,637
+"computer accessories",RJ,120289.45,1002
+"sport leisure",MG,112719.19,966
+"computer accessories",MG,111069.74,1000
+"Furniture office",SP,108018.87,662
+telephony,SP,104088.28,1646
+"Furniture Decoration",RJ,98427.86,1090
+"stationary store",SP,90598.73,1064
+"pet Shop",SP,89396.15,898
+"Cool Stuff",RJ,83909.95,523
+"Furniture Decoration",MG,78999.74,949
+housewares,MG,78073.72,835
+housewares,RJ,77675.57,877
+toys,RJ,74187.79,585
+"Garden tools",RJ,73505.37,656
+automotive,MG,72851.08,513
+"Cool Stuff",MG,72778.48,459
+electrostile,SP,72283.81,307
+"musical instruments",SP,69582.41,269
+NULL,SP,67194.6,655
+automotive,RJ,65838.1,442
+"Games consoles",SP,64100.25,496
+PCs,SP,61993.27,59
+"Construction Tools Construction",SP,60894.73,428
+"Garden tools",MG,60649.22,608
+"bed table bath",RS,60270.74,614
+"Watches present",PR,59967.04,307
+toys,MG,58888.2,494
+"sport leisure",PR,58630.2,486
+"Fashion Bags and Accessories",SP,57242.3,861
+"Bags Accessories",SP,57144.97,455
+"HEALTH BEAUTY",PR,54949.36,425
+"Furniture Decoration",RS,54813.58,561
+perfumery,RJ,54167.88,451
+"sport leisure",RS,53788.32,475
+electronics,SP,53164.94,1005
+"computer accessories",RS,52757.73,485
+"HEALTH BEAUTY",BA,51367.91,350
+"HEALTH BEAUTY",RS,51327.72,436
+"Furniture Decoration",PR,49484.89,520
+"Watches present",BA,48885.59,233
+perfumery,MG,48823.98,408
+"Watches present",RS,48152.53,233
+babies,MG,47889.38,372
+"Furniture office",RJ,46912.19,306
+"Cool Stuff",RS,46676.34,262
+"bed table bath",PR,45598.47,468
+"computer accessories",PR,44127.09,389
+"sport leisure",SC,44116.9,363
+babies,RJ,42318.52,359
+"HEALTH BEAUTY",PE,41604.78,240
+"HEALTH BEAUTY",SC,39760.16,309
+housewares,RS,38994.63,434
+"sport leisure",BA,38644.61,293
+telephony,RJ,38434.07,438
+"computer accessories",SC,37757.13,320
+"Cool Stuff",PR,37539.12,215
+"Garden tools",RS,36678.7,290
+telephony,MG,35091.61,484
+"Casa Construcao",SP,34286.58,268
+"home appliances",SP,33872.23,347
+"computer accessories",BA,33589.91,259
+"Watches present",SC,33419.33,185
+"stationary store",RJ,33333.33,331
+"Watches present",GO,33257.72,147
+"ELECTRICES 2",SP,33073.76,89
+"Watches present",DF,32730.37,148
+"HEALTH BEAUTY",CE,32419.18,167
+"Furniture Decoration",SC,32335.34,354
+"pet Shop",MG,31987.34,250
+housewares,PR,31221.6,337
+"bed table bath",SC,31148.52,330
+"Watches present",PE,31049.78,165
+babies,RS,30458.93,210
+"HEALTH BEAUTY",DF,29862.82,246
+automotive,BA,29762.5,158
+electrostile,RJ,29607.4,88
+"Watches present",ES,29461,152
+"Watches present",CE,29285.24,136
+toys,RS,29037.52,212
+"ELECTRICES 2",RJ,28822.51,45
+"Cool Stuff",SC,28498.8,159
+"HEALTH BEAUTY",GO,28312.3,229
+"Furniture office",MG,28150.24,167
+automotive,PR,28134.02,234
+automotive,SC,27531.28,182
+"House comfort",SP,27333.63,204
+housewares,SC,27047.49,264
+"musical instruments",MG,27009.59,80
+electronics,RJ,26364.61,437
+automotive,RS,26333.12,188
+"Agro Industria e Comercio",SP,25884.05,95
+"bed table bath",BA,25794.99,263
+"pet Shop",RJ,25752.52,218
+"stationary store",MG,25107.39,273
+"computer accessories",DF,25029.33,163
+"Garden tools",BA,24228.51,178
+toys,PR,24200.11,205
+"Furniture Kitchen Service Area Dinner and Garden",SP,24029.26,143
+NULL,RJ,23900.61,224
+"Cool Stuff",BA,23780.04,146
+"Garden tools",SC,23779.34,183
+"HEALTH BEAUTY",PA,23755.83,107
+"Fashion Bags and Accessories",MG,23580.11,265
+"Furniture Decoration",BA,23425.96,252
+"Room Furniture",SP,23332.23,202
+PCs,RJ,23260.45,23
+"sport leisure",DF,22846.17,224
+climatization,SP,22761.84,139
+"Bags Accessories",MG,22686.65,183
+"bed table bath",ES,22678.65,225
+"bed table bath",GO,22645.31,235
+"Watches present",PA,22559.82,76
+"Cool Stuff",GO,22528.09,99
+babies,PR,21764.45,161
+telephony,BA,21144.41,250
+"Construction Tools Construction",RJ,21078.25,122
+PCs,BA,21043.99,25
+PCs,MG,20973,19
+electronics,MG,20831.49,296
+"Garden tools",PR,20681.03,209
+perfumery,RS,20554.25,155
+"musical instruments",RJ,20527.39,80
+"sport leisure",PE,20364.51,149
+"HEALTH BEAUTY",ES,20214.49,165
+"sport leisure",ES,20113.19,174
+"Games consoles",MG,19952.67,133
+"fixed telephony",RJ,19566.18,36
+"sport leisure",GO,19547.25,167
+"General Interest Books",SP,19293.65,227
+telephony,RS,19159.68,292
+"Construction Tools Illumination",SP,18972.16,143
+"Industry Commerce and Business",SP,18520.7,128
+NULL,MG,18234.35,181
+"Construction Tools Construction",MG,18040.69,121
+electrostile,MG,17762.09,66
+audio,SP,17538.49,145
+automotive,DF,17389.04,110
+"Games consoles",RJ,17361.34,142
+housewares,BA,17035.77,161
+babies,SC,16878.47,113
+"Room Furniture",RJ,16697.34,117
+"HOUSE PASTALS OVEN AND CAFE",SP,16562.55,35
+climatization,RJ,16446.2,69
+"bed table bath",DF,16390.51,209
+"Fashion Bags and Accessories",RJ,16288.3,200
+"HEALTH BEAUTY",PB,16286.98,78
+perfumery,PR,15833.32,153
+toys,SC,15783.32,120
+"Furniture office",PR,15717.12,92
+"fixed telephony",SP,15582.33,117
+foods,SP,15478.57,285
+babies,BA,15377.33,97
+electrostile,RS,15317.7,45
+"HEALTH BEAUTY",MT,15301.79,90
+"Garden tools",GO,15153.47,118
+"Bags Accessories",RJ,15062.48,123
+"Watches present",MT,15006.91,61
+Art,SP,14937.84,99
+"computer accessories",ES,14840.67,152
+housewares,GO,14836.1,132
+toys,BA,14707.03,117
+"Cool Stuff",PE,14245.52,79
+"CONSTRUCTION SECURITY TOOLS",SP,14227.47,66
+"Furniture office",BA,14225.83,92
+perfumery,SC,13954.45,118
+"HEALTH BEAUTY",RN,13886.47,58
+"computer accessories",GO,13856.23,124
+"Watches present",PB,13388.88,43
+telephony,PR,13273.28,250
+housewares,DF,12988.35,155
+"computer accessories",PE,12982.91,106
+"Furniture Decoration",ES,12912.72,145
+"HEALTH BEAUTY",AL,12780.26,63
+"stationary store",RS,12769.01,148
+"HEALTH BEAUTY",MA,12747.18,89
+"sport leisure",PA,12733.25,85
+"computer accessories",MA,12581.43,73
+"Furniture Decoration",GO,12554.88,128
+"computer accessories",CE,12504.75,93
+"Cool Stuff",DF,12413.29,80
+automotive,PE,12339.95,86
+"Cool Stuff",CE,12235.4,51
+telephony,SC,12175.47,175
+automotive,ES,12145.66,87
+"Agro Industria e Comercio",MG,12126.49,21
+housewares,ES,12091.62,114
+"Furniture Decoration",DF,12080.71,152
+automotive,CE,11985.5,59
+toys,DF,11791.85,97
+"computer accessories",PA,11694.09,90
+"Watches present",AL,11683.27,36
+electrostile,DF,11437.13,23
+automotive,GO,11360.75,99
+"HEALTH BEAUTY",MS,11289.57,65
+"stationary store",PR,11231.99,128
+electrostile,PR,11217.34,42
+"pet Shop",RS,11045.61,99
+electronics,PR,10991.61,183
+"Cool Stuff",ES,10909.83,66
+housewares,MS,10861.74,39
+"ELECTRICES 2",RS,10800.18,12
+PCs,DF,10786.99,7
+"Garden tools",ES,10732.53,104
+telephony,PE,10608.94,129
+toys,ES,10571.56,97
+"sport leisure",CE,10551.62,93
+"Furniture office",RS,10512.58,68
+automotive,MT,10507.41,56
+"Furniture office",SC,10439.13,62
+perfumery,GO,10291.58,93
+"HEALTH BEAUTY",PI,10290.19,54
+"musical instruments",PR,10233.49,37
+"Watches present",RN,10160.42,49
+automotive,PI,10134.68,34
+"musical instruments",BA,10033.3,39
+perfumery,DF,9948.04,88
+Furniture,SP,9946.06,52
+"Watches present",MA,9904.99,61
+babies,PA,9882.75,44
+"computer accessories",MS,9878.79,63
+"Market Place",SP,9824.63,117
+perfumery,BA,9723.01,81
+babies,GO,9631.87,54
+PCs,PE,9596.97,10
+"Furniture Decoration",PE,9593.28,98
+"bed table bath",PE,9443.32,93
+"sport leisure",MT,9433.02,76
+audio,RJ,9360.35,58
+telephony,ES,9323.35,115
+"Garden tools",DF,9247.14,60
+"Furniture Decoration",CE,9216.04,87
+"Construction Tools Construction",PR,9200.82,51
+NULL,PA,9178.96,19
+"sport leisure",MS,9177.09,75
+drinks,SP,9125.12,211
+"Furniture Decoration",PA,9121.44,71
+"musical instruments",RS,9106.6,32
+"home appliances",RJ,9064.48,83
+"pet Shop",SC,9018,85
+toys,PE,8949.2,64
+"stationary store",SC,8917.91,94
+"HEALTH BEAUTY",SE,8883.66,40
+"computer accessories",MT,8873.15,55
+"Garden tools",MT,8850.13,53
+perfumery,CE,8747.73,57
+"Games consoles",RS,8700.54,61
+NULL,GO,8659.88,53
+babies,DF,8621.37,69
+"Agro Industria e Comercio",RJ,8598.86,28
+"HOUSE PASTALS OVEN AND CAFE",PR,8590,8
+electrostile,SC,8589.04,28
+"sport leisure",MA,8568.87,66
+PCs,RS,8546.89,8
+NULL,PR,8497.23,79
+"pet Shop",PR,8456.64,91
+"Casa Construcao",MG,8383.4,63
+NULL,RS,8380.4,99
+electronics,RS,8378.81,165
+babies,ES,8370.65,62
+electronics,SC,8322.86,125
+"fixed telephony",ES,8213.78,9
+"Fashion Bags and Accessories",RS,8172.47,80
+"House comfort",MG,8097.59,57
+PCs,ES,8058,3
+telephony,PA,8037.41,77
+"ELECTRICES 2",SC,7989.38,17
+"House comfort",RJ,7954.87,61
+"SIGNALIZATION AND SAFETY",SP,7949.51,95
+toys,GO,7913.87,83
+"Fashion Bags and Accessories",PR,7906.38,118
+automotive,PA,7870.47,51
+toys,CE,7869.8,66
+"Room Furniture",MG,7817.38,48
+"musical instruments",SC,7741.89,30
+"Watches present",PI,7736.18,41
+"computer accessories",AL,7714.36,41
+housewares,CE,7643.31,59
+"Cool Stuff",MA,7560.38,35
+"CONSTRUCTION SECURITY TOOLS",MG,7546.76,29
+telephony,CE,7539.33,99
+"Casa Construcao",RS,7497.72,43
+"technical books",SP,7490.78,113
+"Furniture Kitchen Service Area Dinner and Garden",RJ,7487.34,47
+"Construction Tools Garden",SP,7482.75,99
+"Cool Stuff",PA,7467,49
+"Cool Stuff",MT,7408.52,46
+"ELECTRICES 2",PR,7359.82,16
+"stationary store",BA,7355.95,77
+NULL,SC,7263.55,63
+"computer accessories",PB,7218.07,54
+"Garden tools",PE,7213.53,65
+automotive,MS,7142.65,26
+PCs,PB,7128,4
+"bed table bath",MT,7125.58,70
+PCs,CE,7096.79,6
+"HEALTH BEAUTY",RO,7085.76,25
+"Casa Construcao",RJ,7067.68,72
+"bed table bath",CE,7020.79,83
+"Bags Accessories",RS,6959.95,56
+babies,MT,6936.53,35
+"Fashion Calcados",SP,6898.6,91
+"Fashion Bags and Accessories",BA,6795.79,77
+PCs,MA,6786.98,5
+"Construction Tools Tools",SP,6786.25,33
+PCs,PR,6676.98,4
+perfumery,PE,6585.83,50
+perfumery,ES,6577.55,68
+"Furniture Decoration",MT,6568.94,75
+"ELECTRICES 2",MG,6535.78,20
+"Construction Tools Garden",RJ,6503.25,39
+"Games consoles",PR,6483.52,47
+"Bags Accessories",PR,6418.05,51
+"musical instruments",PE,6410.5,11
+"Drink foods",SP,6402.16,136
+NULL,BA,6306.93,60
+"Construction Tools Illumination",MG,6267.15,41
+electronics,BA,6252.13,108
+"Watches present",MS,6251.9,37
+telephony,DF,6243.51,94
+"Fashion Bags and Accessories",SC,6235.96,79
+telephony,GO,6169.94,123
+"Cool Stuff",MS,6163.88,26
+"home appliances",RS,6141.38,44
+"Garden tools",CE,6135.84,56
+PCs,SC,6069.98,5
+"Bags Accessories",SC,5926.77,35
+toys,MT,5857.16,44
+"home appliances",PR,5824.3,44
+"pet Shop",BA,5823.67,62
+"Furniture Decoration",MS,5819.66,65
+"home appliances",MG,5814.42,86
+"bed table bath",MS,5746.71,64
+"Garden tools",PA,5718.42,37
+"Cool Stuff",SE,5686.67,17
+"sport leisure",PI,5675.69,34
+"Games consoles",PE,5651.24,20
+audio,MG,5627.09,35
+"Agro Industria e Comercio",PE,5611.92,5
+drinks,RJ,5604.82,55
+"Garden tools",PB,5590.01,15
+"Construction Tools Construction",RS,5578.65,44
+"stationary store",ES,5503.36,50
+"Cool Stuff",PB,5458.16,25
+"Watches present",TO,5446.89,30
+housewares,PE,5380.52,60
+telephony,RN,5303.29,25
+automotive,MA,5291.16,39
+"computer accessories",PI,5276.15,36
+babies,MA,5275.28,27
+"musical instruments",ES,5247.38,21
+"Furniture office",ES,5172.8,30
+"sport leisure",TO,5144.32,25
+"Garden tools",MS,5095.07,22
+electrostile,CE,5043.29,8
+"pet Shop",DF,5037.71,40
+telephony,MA,5002.02,65
+"sport leisure",PB,4998.52,36
+"Construction Tools Construction",SC,4976.8,30
+babies,PE,4939.41,41
+"Agro Industria e Comercio",PR,4903.53,12
+"stationary store",DF,4853.09,48
+"HEALTH BEAUTY",TO,4798.99,36
+"HOUSE PASTALS OVEN AND CAFE",SC,4754.9,4
+"Furniture office",CE,4716.76,28
+"pet Shop",GO,4692.63,28
+"HOUSE PASTALS OVEN AND CAFE",MG,4668.38,10
+housewares,PA,4660.21,38
+babies,MS,4610.22,31
+"Construction Tools Construction",BA,4594.7,36
+"stationary store",GO,4579.82,50
+automotive,AL,4578.54,22
+"Furniture Decoration",MA,4570.36,48
+"Watches present",RO,4553.27,15
+babies,CE,4548.24,31
+"stationary store",PE,4526.59,48
+telephony,AL,4508.15,28
+perfumery,PA,4480.28,35
+"General Interest Books",MG,4470.52,54
+"Furniture Decoration",PB,4441.71,42
+perfumery,MA,4436.58,31
+"Games consoles",SC,4387.53,34
+climatization,MG,4379.11,20
+"computer accessories",TO,4360.97,21
+"Fashion Men's Clothing",SP,4294.28,57
+babies,PI,4293.09,12
+"Blu Ray DVDs",SP,4292.66,23
+"General Interest Books",RJ,4249.16,57
+"Games consoles",BA,4247.14,36
+"Furniture Decoration",SE,4231.39,25
+automotive,RN,4222.61,19
+automotive,PB,4141.27,22
+NULL,PE,4137.63,23
+"fixed telephony",BA,4131.82,12
+"Furniture office",PA,4115.24,27
+"sport leisure",RN,4101.37,22
+"computer accessories",SE,4052.9,36
+toys,MS,3974.57,36
+"bed table bath",MA,3964.63,36
+"HOUSE PASTALS OVEN AND CAFE",RJ,3911.09,7
+"Furniture Kitchen Service Area Dinner and Garden",MG,3886.46,29
+"Casa Construcao",SC,3878.12,25
+electrostile,BA,3871.96,18
+toys,PA,3836.62,29
+"musical instruments",MT,3818.7,6
+toys,PI,3808.8,28
+"Cool Stuff",RN,3800.28,21
+"bed table bath",PI,3777.75,34
+electronics,CE,3768.9,46
+"sport leisure",AL,3747.68,33
+"Garden tools",PI,3732.85,17
+"Fashion Bags and Accessories",DF,3730.08,46
+"Furniture office",MT,3720.77,20
+electronics,ES,3716.14,79
+"Furniture office",MA,3715.64,23
+"Furniture Decoration",AL,3713.29,34
+"Fashion Underwear and Beach Fashion",SP,3670.75,55
+"Games consoles",CE,3664.05,16
+housewares,MT,3640.5,52
+"Room Furniture",RS,3582.95,24
+"musical instruments",MS,3582.5,7
+Furniture,RJ,3577.96,20
+"Fashion Bags and Accessories",ES,3569.94,50
+"Garden tools",SE,3568.13,29
+PCs,GO,3559.97,5
+NULL,CE,3546.67,18
+"Games consoles",ES,3525.02,23
+"Furniture office",PE,3519.57,20
+"bed table bath",PA,3506.54,38
+electrostile,MT,3502.9,8
+"bed table bath",PB,3494.59,32
+"Cool Stuff",PI,3490.87,20
+"musical instruments",MA,3477.05,10
+telephony,MT,3463.74,66
+"Furniture Kitchen Service Area Dinner and Garden",PR,3439.09,14
+"Bags Accessories",BA,3435.83,32
+"Cool Stuff",TO,3429.41,16
+"Bags Accessories",CE,3416.5,24
+toys,PB,3408.07,16
+"stationary store",RN,3403.01,13
+electrostile,PA,3366.25,9
+climatization,PR,3353.81,12
+"Industry Commerce and Business",PB,3321.97,3
+"sport leisure",RO,3321.88,20
+PCs,PA,3319,4
+"bed table bath",RN,3311.44,30
+"Fashion Calcados",MG,3304.28,43
+toys,MA,3284.03,23
+"musical instruments",CE,3261.67,7
+"Construction Tools Illumination",RJ,3257.91,21
+"Furniture Decoration",RN,3241.48,29
+"Construction Tools Construction",MT,3215.88,7
+"stationary store",CE,3173.43,38
+telephony,PB,3172.42,27
+"Furniture office",GO,3161.93,22
+"Fashion Bags and Accessories",GO,3160.69,45
+"Agro Industria e Comercio",RS,3155.93,9
+"Industry Commerce and Business",RS,3147.49,23
+"Industry Commerce and Business",RJ,3126.6,28
+"sport leisure",SE,3116.92,35
+"stationary store",MT,3113.16,28
+toys,RO,3079.05,15
+"home appliances",SC,3048.51,25
+"General Interest Books",PR,3003.25,37
+"Furniture office",DF,2997.74,19
+"House comfort",RS,2991.89,21
+Art,RJ,2982.9,33
+perfumery,RN,2970.59,21
+"Market Place",RJ,2967.74,36
+"pet Shop",MT,2936.2,16
+"SIGNALIZATION AND SAFETY",MT,2919.4,6
+"Watches present",SE,2896,20
+PCs,MT,2889.99,2
+electronics,PA,2875.88,28
+telephony,PI,2875.69,38
+"Garden tools",RN,2871.31,19
+"pet Shop",PE,2864.78,23
+"CONSTRUCTION SECURITY TOOLS",SC,2850.64,13
+audio,PR,2841.27,18
+perfumery,MT,2837.13,30
+"Market Place",MG,2825.05,33
+"Drink foods",RJ,2811.4,52
+foods,RJ,2808.31,47
+"computer accessories",RN,2801.27,32
+NULL,PB,2791.34,10
+"Bags Accessories",DF,2776.85,24
+"HEALTH BEAUTY",AM,2776.03,20
+"Casa Construcao",PR,2748.11,24
+"home appliances",BA,2737.29,39
+"CONSTRUCTION SECURITY TOOLS",RJ,2736.43,17
+"ELECTRICES 2",DF,2733.9,5
+NULL,DF,2701.81,33
+"Construction Tools Construction",ES,2696.38,12
+"Games consoles",AL,2683.08,7
+electrostile,GO,2679.88,11
+"Casa Construcao",GO,2668.35,13
+"Fashion Bags and Accessories",CE,2667.73,30
+"Casa Construcao",BA,2654.23,14
+"ELECTRICES 2",CE,2653.9,3
+"Construction Tools Construction",PE,2593.77,12
+electronics,PB,2573.43,13
+"pet Shop",MS,2569.92,25
+"Bags Accessories",ES,2553.48,16
+"General Interest Books",RS,2540.85,28
+"musical instruments",DF,2532.6,10
+"Construction Tools Tools",GO,2529.5,7
+housewares,PI,2506.09,19
+"Cool Stuff",AL,2500.94,16
+PCs,SE,2500,2
+PCs,RO,2499.9,2
+"stationary store",PA,2496.81,22
+"Room Furniture",BA,2494.43,20
+"Imported books",SP,2484.5,37
+electronics,DF,2458.04,51
+"IMAGE IMPORT TABLETS",SP,2449.76,32
+"SIGNALIZATION AND SAFETY",RJ,2445.54,20
+housewares,PB,2443.7,23
+"Cool Stuff",RO,2440.14,13
+"Construction Tools Garden",MG,2432.03,30
+automotive,TO,2418.84,16
+"fixed telephony",RS,2402.76,19
+perfumery,PB,2402.07,18
+"Games consoles",GO,2386.84,22
+"CONSTRUCTION SECURITY TOOLS",BA,2384.93,7
+housewares,MA,2384.76,24
+"Fashion Calcados",RJ,2381.11,29
+automotive,SE,2373.88,21
+telephony,SE,2365.89,28
+PCs,PI,2349.99,3
+"ELECTRICES 2",AL,2345,2
+"Fashion Bags and Accessories",PE,2336.93,36
+babies,RN,2334.39,15
+"home appliances",PB,2310,2
+"pet Shop",RN,2301.68,13
+"Agro Industria e Comercio",GO,2298.39,7
+"Agro Industria e Comercio",BA,2257,5
+"Construction Tools Illumination",RS,2252.53,24
+audio,RS,2245.2,16
+Furniture,MG,2237.8,7
+babies,RO,2214.39,11
+"pet Shop",AL,2195.9,3
+"CONSTRUCTION SECURITY TOOLS",MS,2185.89,2
+"CONSTRUCTION SECURITY TOOLS",PR,2184.51,18
+babies,TO,2179.63,7
+"Garden tools",MA,2175.47,24
+"pet Shop",ES,2171.08,26
+"computer accessories",AP,2149.52,9
+"Casa Construcao",ES,2148.7,15
+"Christmas articles",SP,2143.98,50
+"Market Place",BA,2135.69,4
+"Room Furniture",SC,2131.37,12
+"stationary store",PB,2130.18,18
+foods,MG,2115.59,38
+"Games consoles",DF,2113.37,28
+"Fashion Bags and Accessories",PA,2102.54,31
+song,SP,2093.25,12
+"CITTE AND UPHACK FURNITURE",SP,2083.9,22
+"computer accessories",RO,2081.57,23
+electrostile,PB,2068.36,4
+"General Interest Books",GO,2062.59,15
+"Construction Tools Illumination",PR,2061.88,13
+"ELECTRICES 2",BA,2053.78,6
+"Room Furniture",PR,2052.51,17
+PCs,AL,2049.99,2
+audio,DF,2048.23,16
+"Furniture Decoration",TO,2047.09,18
+"cine photo",SP,2033.91,31
+"bed table bath",AL,2023.04,20
+"Games consoles",PA,2013.73,14
+"Fashion Bags and Accessories",MA,2004.74,26
+babies,PB,2002.57,13
+"HOUSE PASTALS OVEN AND CAFE",RO,1999,1
+"HOUSE PASTALS OVEN AND CAFE",TO,1999,1
+"Construction Tools Garden",CE,1988,8
+perfumery,PI,1985.57,16
+"Garden tools",AM,1980.88,5
+"pet Shop",PA,1979.88,11
+"Market Place",RS,1978.53,21
+audio,GO,1974.88,7
+electronics,PE,1971.04,41
+"Furniture Kitchen Service Area Dinner and Garden",RS,1969.6,13
+toys,RN,1964.52,25
+"computer accessories",AM,1960.74,17
+drinks,MG,1940.6,26
+"fixed telephony",SC,1916.88,7
+"Drink foods",MG,1913.9,26
+"technical books",MG,1901.03,29
+"General Interest Books",SC,1890.22,23
+housewares,RN,1882.55,25
+toys,TO,1864.15,13
+"fixed telephony",PB,1845.79,5
+"bed table bath",SE,1812.17,15
+"Watches present",AM,1811.35,11
+perfumery,TO,1804.93,13
+"home appliances",DF,1802.43,15
+perfumery,MS,1800.1,25
+"Construction Tools Construction",CE,1793.06,10
+perfumery,AL,1766.66,12
+"technical books",PR,1764.45,15
+"musical instruments",PA,1733.37,10
+"bed table bath",RO,1732.27,15
+"Games consoles",SE,1731.99,6
+"stationary store",MS,1728,22
+"Construction Tools Tools",MG,1720.05,18
+"Construction Tools Construction",MS,1715.01,14
+"musical instruments",SE,1714.8,3
+climatization,RS,1702.19,15
+foods,PR,1694.2,29
+"home appliances",CE,1680.9,7
+"sport leisure",AC,1677.46,9
+"Industry Commerce and Business",MG,1675.96,17
+"Games consoles",PI,1670.49,9
+"Construction Tools Construction",RN,1655.57,8
+"Games consoles",RN,1654.96,6
+"Garden tools",AL,1648.08,14
+"Watches present",AP,1639.8,8
+"House comfort",PR,1637.1,13
+"Bags Accessories",PE,1635.26,13
+"Bags Accessories",GO,1632.77,12
+"House comfort",SC,1626.19,12
+"technical books",RJ,1621.68,29
+NULL,ES,1614.27,18
+NULL,MA,1600.92,11
+"General Interest Books",ES,1594.85,11
+audio,SC,1592.57,10
+"party articles",SP,1585.88,18
+"Casa Construcao",CE,1581.65,10
+"HOUSE PASTALS OVEN AND CAFE",BA,1574.9,3
+"Construction Tools Garden",BA,1569.39,8
+"Furniture Decoration",RO,1545.18,13
+"House comfort",ES,1538.18,12
+"ELECTRICES 2",GO,1537.9,3
+"Fashion Men's Clothing",MG,1536.73,20
+"Industry Commerce and Business",PE,1528.9,4
+"Room Furniture",MA,1519.9,4
+"Bags Accessories",PA,1515.63,7
+"Furniture Decoration",PI,1515.42,22
+electronics,MS,1513.02,22
+"Construction Tools Illumination",SC,1499.16,16
+electrostile,SE,1486.7,3
+"Agro Industria e Comercio",AL,1476.3,1
+telephony,MS,1475.69,28
+"musical instruments",GO,1472.84,9
+"Industry Commerce and Business",SC,1470.88,16
+"stationary store",MA,1455.89,20
+"Fashion Bags and Accessories",RN,1455.79,8
+drinks,PR,1449.32,15
+"Fashion Women's Clothing",SP,1448.97,28
+"Market Place",SC,1448.69,14
+babies,SE,1447.49,8
+electronics,PI,1446.84,22
+"Room Furniture",ES,1441.32,14
+"ELECTRICES 2",RN,1439.9,2
+PCs,AP,1437,1
+"General Interest Books",RN,1432.6,27
+audio,BA,1430.69,14
+"Industry Commerce and Business",GO,1428.14,7
+"Casa Construcao",MS,1408,8
+"Room Furniture",DF,1405.66,7
+"pet Shop",PI,1396.78,7
+"SIGNALIZATION AND SAFETY",RS,1392.45,17
+"fixed telephony",TO,1390.99,2
+"Watches present",AC,1389.6,4
+automotive,RO,1389.16,10
+"HEALTH BEAUTY",AC,1386.58,7
+"Furniture office",PI,1382.6,9
+"musical instruments",PI,1381.6,6
+"Room Furniture",GO,1381.57,10
+"HEALTH BEAUTY",AP,1380.58,10
+"Construction Tools Construction",RO,1374.5,4
+Art,MG,1366.54,18
+"Bags Accessories",MS,1365.63,9
+"sport leisure",AM,1362.6,12
+"Fashion Underwear and Beach Fashion",RJ,1359.47,17
+"General Interest Books",CE,1353.05,7
+"sport leisure",RR,1350.6,8
+"Casa Construcao",PE,1341.65,7
+PCs,AM,1340,1
+"Games consoles",MA,1331.53,6
+"Games consoles",MT,1330.49,9
+"Furniture Kitchen Service Area Dinner and Garden",DF,1323.8,5
+"Furniture Decoration",AC,1316.44,12
+"home appliances",MA,1297.8,3
+perfumery,RO,1291.3,6
+"computer accessories",AC,1290.48,9
+housewares,TO,1275.75,14
+"Industry Commerce and Business",DF,1272,6
+"Christmas articles",MG,1271.33,19
+telephony,TO,1268.12,21
+housewares,SE,1267.48,10
+"General Interest Books",DF,1245.89,18
+"Furniture office",RN,1244.72,5
+"fixed telephony",MG,1244.6,17
+"Construction Tools Construction",GO,1233.16,11
+"Furniture office",TO,1226.54,6
+"Fashion Calcados",PE,1221.42,11
+automotive,AP,1216.39,3
+"stationary store",PI,1208.6,11
+"Industry Commerce and Business",PR,1207.87,12
+"Garden tools",TO,1206.3,13
+"Bags Accessories",MA,1202.43,9
+PCs,AC,1200,1
+PCs,TO,1200,1
+audio,ES,1197.78,14
+"Construction Tools Construction",AL,1195,2
+"Furniture office",PB,1191.33,10
+"Bags Accessories",RO,1181.6,6
+"CONSTRUCTION SECURITY TOOLS",RS,1176.31,8
+"House comfort",BA,1170.4,11
+song,GO,1165.97,1
+"Fashion Bags and Accessories",PB,1151.07,15
+"ELECTRICES 2",ES,1149.99,3
+"pet Shop",CE,1141.04,13
+"Bags Accessories",MT,1139.59,8
+"technical books",ES,1138.6,14
+"Kitchen portable and food coach",MG,1133.9,2
+"home appliances",ES,1120.96,15
+"Construction Tools Tools",RS,1113.4,8
+"House comfort",GO,1110.5,8
+"Agro Industria e Comercio",PA,1109.98,2
+"cine photo",SC,1106.89,4
+electronics,SE,1105.84,19
+telephony,AC,1103.96,5
+"party articles",MG,1103,5
+toys,SE,1100.29,11
+"Furniture office",RO,1087.86,6
+"Hygiene diapers",SP,1087.69,31
+"Construction Tools Construction",DF,1085.94,11
+"Casa Construcao",MT,1085.28,7
+drinks,RS,1073.44,18
+"Construction Tools Tools",RJ,1072.68,9
+"SIGNALIZATION AND SAFETY",GO,1071.34,6
+"Fashion Underwear and Beach Fashion",MG,1070.8,18
+"Agro Industria e Comercio",SC,1069.98,3
+"Fashion Calcados",PR,1067.02,18
+"Bags Accessories",PB,1066.49,7
+"CONSTRUCTION SECURITY TOOLS",MT,1063.59,4
+"Fashion Men's Clothing",PR,1061.28,12
+toys,AL,1053.07,12
+"Furniture Kitchen Service Area Dinner and Garden",PE,1051.88,4
+"HEALTH BEAUTY",RR,1050.61,7
+"SIGNALIZATION AND SAFETY",PB,1050,6
+NULL,MT,1042.4,12
+"Fashion Bags and Accessories",MS,1030.58,14
+"IMAGE IMPORT TABLETS",ES,1026.79,4
+"Fashion Calcados",GO,1022.3,7
+"home appliances",MT,1022.29,8
+housewares,AL,1020.36,10
+"CITTE AND UPHACK FURNITURE",RJ,1019.99,8
+song,RJ,1017.85,8
+"General Interest Books",BA,1017.7,15
+"ELECTRICES 2",TO,1016.98,3
+"CONSTRUCTION SECURITY TOOLS",PE,1016.18,4
+"Construction Tools Garden",RS,1012.98,7
+"Construction Tools Illumination",ES,1012.3,9
+"bed table bath",TO,1010.83,10
+"Furniture office",AL,1009.84,7
+"musical instruments",PB,1007.8,4
+"Bags Accessories",AL,999.36,6
+"Construction Tools Garden",PE,995.54,6
+foods,BA,991.41,18
+babies,RR,988.87,2
+electronics,MT,985.66,26
+"Construction Tools Illumination",GO,985,5
+"Kitchen portable and food coach",PA,979,1
+"Kitchen portable and food coach",RS,979,1
+"pet Shop",RO,975.53,8
+"technical books",SC,975.23,10
+"House comfort",PE,970.4,8
+"Fashion Men's Clothing",RJ,967.37,12
+foods,ES,963.69,14
+"Fashion Men's Clothing",BA,960.8,9
+"ELECTRICES 2",PE,959.99,2
+"Casa Construcao",PB,959.25,5
+"home appliances",RR,954.18,3
+"Fashion Calcados",DF,944.59,7
+climatization,GO,940.89,7
+"Fashion Sport",SP,939.8,12
+"Market Place",PR,928.94,15
+"technical books",RS,913.56,12
+"IMAGE IMPORT TABLETS",RJ,907.79,10
+"Arts and Crafts",SP,906.25,16
+"Construction Tools Illumination",MS,904.98,9
+audio,CE,902.89,5
+Art,BA,898.95,10
+climatization,ES,898.8,6
+"Christmas articles",SC,898.12,14
+drinks,SC,891.91,14
+"Casa Construcao",SE,884.95,3
+"CONSTRUCTION SECURITY TOOLS",CE,882.63,5
+"Industry Commerce and Business",PI,874.3,3
+"Games consoles",PB,873.38,7
+"Room Furniture",SE,870.99,3
+perfumery,SE,868.72,7
+"SIGNALIZATION AND SAFETY",ES,859.9,6
+electronics,GO,854.75,33
+"IMAGE IMPORT TABLETS",MG,851.7,10
+"Fashion Calcados",BA,851.5,7
+"pet Shop",MA,846.44,10
+climatization,BA,832.86,6
+"Market Place",ES,828.78,7
+"cine photo",RS,821.58,12
+"Casa Construcao",PI,820.6,4
+"ELECTRICES 2",MT,815.79,3
+"sport leisure",AP,812.69,7
+"PC Gamer",SP,806.99,4
+Furniture,SC,803,3
+"Casa Construcao",DF,793.64,7
+"Construction Tools Illumination",DF,788,4
+"pet Shop",PB,786.48,8
+electrostile,PE,781.89,3
+"Fashion Calcados",ES,780.3,5
+"Construction Tools Construction",SE,779.9,1
+"ELECTRICES 2",MS,769.69,4
+telephony,AM,766,15
+"SIGNALIZATION AND SAFETY",MG,754.45,11
+"Casa Construcao",AM,753.4,4
+"Fashion Calcados",SC,750.1,7
+"HOUSE PASTALS OVEN AND CAFE",DF,750,1
+"HOUSE PASTALS OVEN AND CAFE",MT,750,1
+"HOUSE PASTALS OVEN AND CAFE",MS,750,1
+"Imported books",MA,749,1
+foods,SC,747.44,16
+"Construction Tools Illumination",BA,744.06,6
+"Fashion Calcados",RS,742.8,10
+"Furniture office",MS,739.77,4
+"Kitchen portable and food coach",SP,736.31,8
+foods,MT,734.4,7
+audio,MA,733.88,3
+"fixed telephony",AL,731.87,4
+"Room Furniture",AL,729.79,3
+"La Cuisine",SP,729,6
+babies,AL,728.77,7
+foods,RS,727.82,13
+"SIGNALIZATION AND SAFETY",BA,725.84,6
+automotive,AM,723.9,6
+"stationary store",RO,723.6,8
+toys,AM,721.56,7
+"technical books",BA,720.52,10
+"Furniture Kitchen Service Area Dinner and Garden",SC,714.48,7
+"home appliances",GO,714.28,14
+"Casa Construcao",MA,713.76,5
+Art,PR,710.82,9
+"Christmas articles",BA,703.21,10
+"Christmas articles",PA,701.4,6
+"Fashion Bags and Accessories",AM,699.99,1
+"stationary store",AM,698.99,6
+babies,AC,697.84,3
+"House comfort",MT,687.8,4
+"House comfort",MA,685.9,2
+song,MG,683.33,6
+"bed table bath",AM,681.2,8
+"cine photo",MT,675.99,1
+"technical books",DF,672.8,5
+"Market Place",MA,672.28,9
+"Drink foods",PE,672.01,5
+audio,MT,671.8,4
+"bed table bath",AP,669.5,6
+electrostile,ES,668.75,3
+telephony,RO,668.07,19
+Furniture,BA,667,4
+"Fashion Bags and Accessories",MT,665.37,14
+"Market Place",MT,662.24,5
+"Furniture Kitchen Service Area Dinner and Garden",MT,660,3
+babies,AM,657.69,5
+"stationary store",AL,655.01,8
+"Drink foods",PR,653.48,16
+"home appliances",PA,650.55,10
+"Construction Tools Illumination",MT,649.99,3
+"Construction Tools Garden",PR,648.59,6
+"General Interest Books",PE,643.08,8
+"HOUSE PASTALS OVEN AND CAFE",PE,640.99,1
+"Cool Stuff",AM,638.88,4
+"Fashion Men's Clothing",RS,638.79,9
+"Fashion Underwear and Beach Fashion",BA,638.7,6
+NULL,MS,635.96,9
+"General Interest Books",AC,633.8,2
+"Fashion Bags and Accessories",RO,632.49,9
+"Casa Construcao",AL,630.75,3
+"Bags Accessories",PI,630.59,5
+"Garden tools",AC,629,2
+"SIGNALIZATION AND SAFETY",DF,626.03,4
+"CONSTRUCTION SECURITY TOOLS",GO,622.4,7
+"Christmas articles",RJ,615.32,15
+"SIGNALIZATION AND SAFETY",SC,612.5,10
+Art,RS,611.44,9
+"bed table bath",RR,609.7,3
+electronics,AP,607.55,4
+foods,PE,603.55,8
+"Room Furniture",CE,602.98,2
+"Construction Tools Garden",PB,599.9,1
+climatization,SC,599.6,4
+"ELECTRICES 2",PI,599.5,1
+"House comfort",TO,599,1
+PCs,MS,599,1
+"Furniture Decoration",RR,590.99,6
+"Agro Industria e Comercio",AP,589.99,1
+"CONSTRUCTION SECURITY TOOLS",PB,589.9,8
+"Construction Tools Tools",BA,589.7,5
+climatization,MT,585.8,5
+NULL,RO,579.66,6
+"Room Furniture",PE,578.79,4
+NULL,RN,578.54,6
+"fixed telephony",PA,577.99,1
+NULL,AL,574.98,4
+NULL,PI,574.17,7
+audio,PA,568,1
+"bed table bath",AC,567.7,4
+Art,DF,565.79,6
+"CITTE AND UPHACK FURNITURE",MG,561.49,3
+"Agro Industria e Comercio",MA,559.99,1
+song,PR,558.6,7
+"Market Place",CE,558.35,4
+"Garden tools",RO,555.4,7
+"Drink foods",BA,550.42,8
+audio,AL,550.09,5
+drinks,ES,546.42,5
+"Fashion Calcados",MS,546,4
+"Fashion Calcados",PA,542.4,4
+NULL,AM,541.8,2
+automotive,AC,540.98,4
+climatization,AL,540,1
+"ELECTRICES 2",AM,540,1
+"Market Place",SE,533.8,3
+"Agro Industria e Comercio",MT,530,2
+"Agro Industria e Comercio",PB,528.99,2
+"stationary store",AC,528.9,2
+"cine photo",RJ,528.6,5
+"Agro Industria e Comercio",MS,526.89,3
+housewares,RO,525.97,5
+"House comfort",DF,521.5,7
+"CONSTRUCTION SECURITY TOOLS",DF,520.18,3
+"Room Furniture",MT,519.88,3
+"Construction Tools Tools",ES,513.99,4
+housewares,AC,513.06,4
+NULL,TO,511.99,5
+foods,DF,511.08,9
+Furniture,DF,510,1
+"Furniture office",SE,506.93,3
+"IMAGE IMPORT TABLETS",BA,505.8,6
+"House comfort",PI,498.89,3
+"Construction Tools Tools",SC,495.6,5
+"HOUSE PASTALS OVEN AND CAFE",RS,494.9,3
+"cine photo",MG,494.89,6
+"La Cuisine",SC,494,2
+drinks,BA,491.23,11
+"Imported books",RJ,490.78,6
+housewares,AP,490.49,4
+"Construction Tools Garden",ES,489.8,5
+"Arts and Crafts",MG,488.78,6
+"Construction Tools Construction",PA,487.89,2
+electronics,AC,487.55,4
+"Market Place",PA,485.16,5
+"Christmas articles",RS,484.9,6
+"Fashion Calcados",MT,478.5,3
+"Fashion Women's Clothing",MG,475.68,7
+"Room Furniture",PB,472.88,3
+Furniture,MT,469.8,2
+climatization,PI,468.9,3
+"Games consoles",MS,468.07,6
+"computer accessories",RR,468.01,5
+climatization,DF,468,3
+"Fashion Bags and Accessories",SE,466.5,8
+"Industry Commerce and Business",BA,465,5
+"Fashion Underwear and Beach Fashion",GO,457.7,5
+"House Comfort 2",SP,456.78,14
+"Agro Industria e Comercio",CE,452.9,6
+"Casa Construcao",RN,452.6,1
+"Blu Ray DVDs",MS,448.8,3
+climatization,CE,446.16,2
+"Fashion Men's Clothing",ES,445.8,3
+"Agro Industria e Comercio",ES,442.3,2
+"Fashion Underwear and Beach Fashion",MS,441.9,3
+audio,PE,441.79,4
+"musical instruments",AM,439,1
+flowers,SP,438.67,11
+Furniture,RS,435,2
+"home appliances",RN,434.25,2
+"La Cuisine",RS,428.99,3
+"Games consoles",AM,423.3,2
+"Market Place",PB,422.8,3
